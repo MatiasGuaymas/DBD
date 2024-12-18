@@ -1,6 +1,6 @@
 <h1 align="center"> Diseño de Base de Datos </h1>
 
-### [**Modelos de parciales**](https://github.com/MatiasGuaymas/ISO/tree/main/Parciales)
+### [**Modelos de parciales**](https://github.com/MatiasGuaymas/DBD/tree/main/Parciales)
 
 ## Prácticas 
 ### Prácticas PDF [*](https://github.com/MatiasGuaymas/DBD/tree/main/Practicas%20PDF)
